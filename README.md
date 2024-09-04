@@ -1,7 +1,7 @@
 
   **Opa, venha conhecer meu novo Projeto** "  
  
--  [VtubeFlix](file:///C:/Users/DeboraPereiraCustodi/Downloads/foxflix-20240904T102932Z-001/foxflix/index.html) 
+-  [VtubeFlix](https://arhalfox.github.io/LuanaFlix/) 
 
 - _Esperem que goste_
 
